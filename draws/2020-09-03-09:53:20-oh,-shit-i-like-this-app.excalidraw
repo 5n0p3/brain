@@ -1,0 +1,618 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "Hfnt8KiW-uTo5vdvJRC4B",
+      "type": "draw",
+      "x": 448,
+      "y": 285,
+      "width": 272,
+      "height": 168,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 105158123,
+      "version": 25,
+      "versionNonce": 1700883819,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          -17
+        ],
+        [
+          30,
+          -32
+        ],
+        [
+          45,
+          -42
+        ],
+        [
+          56,
+          -45
+        ],
+        [
+          53,
+          -8
+        ],
+        [
+          38,
+          66
+        ],
+        [
+          37,
+          84
+        ],
+        [
+          50,
+          88
+        ],
+        [
+          118,
+          60
+        ],
+        [
+          138,
+          55
+        ],
+        [
+          145,
+          68
+        ],
+        [
+          145,
+          96
+        ],
+        [
+          158,
+          123
+        ],
+        [
+          189,
+          123
+        ],
+        [
+          240,
+          116
+        ],
+        [
+          264,
+          116
+        ],
+        [
+          268,
+          115
+        ],
+        [
+          272,
+          112
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "Ro1GWw9NJlr7J-svY8sS4",
+      "type": "draw",
+      "x": 589,
+      "y": 252,
+      "width": 344,
+      "height": 186,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1392573797,
+      "version": 49,
+      "versionNonce": 1493278309,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          -6
+        ],
+        [
+          25,
+          -9
+        ],
+        [
+          57,
+          -11
+        ],
+        [
+          66,
+          1
+        ],
+        [
+          67,
+          79
+        ],
+        [
+          69,
+          94
+        ],
+        [
+          80,
+          104
+        ],
+        [
+          97,
+          109
+        ],
+        [
+          109,
+          115
+        ],
+        [
+          120,
+          126
+        ],
+        [
+          125,
+          127
+        ],
+        [
+          160,
+          99
+        ],
+        [
+          189,
+          85
+        ],
+        [
+          212,
+          80
+        ],
+        [
+          237,
+          72
+        ],
+        [
+          241,
+          81
+        ],
+        [
+          243,
+          97
+        ],
+        [
+          252,
+          134
+        ],
+        [
+          268,
+          164
+        ],
+        [
+          275,
+          175
+        ],
+        [
+          279,
+          175
+        ],
+        [
+          303,
+          163
+        ],
+        [
+          320,
+          158
+        ],
+        [
+          344,
+          154
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "PXTFCCjTv5LAsb2g7g7l5",
+      "type": "draw",
+      "x": 545,
+      "y": 261,
+      "width": 50,
+      "height": 68,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1748608619,
+      "version": 27,
+      "versionNonce": 39372939,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -10,
+          3
+        ],
+        [
+          -22,
+          13
+        ],
+        [
+          -31,
+          32
+        ],
+        [
+          -31,
+          40
+        ],
+        [
+          -26,
+          51
+        ],
+        [
+          -20,
+          58
+        ],
+        [
+          -7,
+          67
+        ],
+        [
+          7,
+          68
+        ],
+        [
+          13,
+          65
+        ],
+        [
+          18,
+          58
+        ],
+        [
+          19,
+          58
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "artQ6-bCUvykkZVGVt-WW",
+      "type": "draw",
+      "x": 557,
+      "y": 294,
+      "width": 111,
+      "height": 103,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 48109989,
+      "version": 48,
+      "versionNonce": 1935497099,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          12,
+          -9
+        ],
+        [
+          22,
+          -14
+        ],
+        [
+          34,
+          -16
+        ],
+        [
+          43,
+          -16
+        ],
+        [
+          53,
+          -12
+        ],
+        [
+          57,
+          -6
+        ],
+        [
+          63,
+          8
+        ],
+        [
+          72,
+          41
+        ],
+        [
+          72,
+          68
+        ],
+        [
+          78,
+          73
+        ],
+        [
+          80,
+          76
+        ],
+        [
+          105,
+          80
+        ],
+        [
+          105,
+          84
+        ],
+        [
+          111,
+          87
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "yarwbcexq6qiKWJDNLCSj",
+      "type": "draw",
+      "x": 686,
+      "y": 256,
+      "width": 119,
+      "height": 88,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 2104359589,
+      "version": 82,
+      "versionNonce": 168339243,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          11
+        ],
+        [
+          13,
+          64
+        ],
+        [
+          18,
+          66
+        ],
+        [
+          24,
+          74
+        ],
+        [
+          24,
+          88
+        ],
+        [
+          30,
+          88
+        ],
+        [
+          41,
+          81
+        ],
+        [
+          51,
+          70
+        ],
+        [
+          74,
+          59
+        ],
+        [
+          103,
+          56
+        ],
+        [
+          109,
+          57
+        ],
+        [
+          109,
+          56
+        ],
+        [
+          113,
+          55
+        ],
+        [
+          118,
+          48
+        ],
+        [
+          119,
+          48
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "gLvlt4Pihp_eXvU_Ufo6u",
+      "type": "draw",
+      "x": 436,
+      "y": 336,
+      "width": 171,
+      "height": 152,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1972958469,
+      "version": 77,
+      "versionNonce": 1496930629,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          32,
+          -21
+        ],
+        [
+          22,
+          32
+        ],
+        [
+          20,
+          84
+        ],
+        [
+          21,
+          88
+        ],
+        [
+          26,
+          95
+        ],
+        [
+          31,
+          97
+        ],
+        [
+          37,
+          97
+        ],
+        [
+          51,
+          90
+        ],
+        [
+          66,
+          79
+        ],
+        [
+          102,
+          47
+        ],
+        [
+          115,
+          45
+        ],
+        [
+          119,
+          55
+        ],
+        [
+          123,
+          84
+        ],
+        [
+          123,
+          105
+        ],
+        [
+          126,
+          117
+        ],
+        [
+          131,
+          128
+        ],
+        [
+          137,
+          130
+        ],
+        [
+          159,
+          131
+        ],
+        [
+          171,
+          125
+        ],
+        [
+          171,
+          123
+        ]
+      ],
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "9jxbhAyka70LN7-sSzSav",
+      "type": "text",
+      "x": 815,
+      "y": 225.5,
+      "width": 428,
+      "height": 26,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1956088203,
+      "version": 52,
+      "versionNonce": 517754117,
+      "isDeleted": false,
+      "text": "And that's the best thing about all of this",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
