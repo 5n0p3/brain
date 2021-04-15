@@ -3,4 +3,4 @@ title: Arctic Dreams
 ---
 
 ## #book by [[Barry Lopez]]
-## Restarted:
+## Restarted: [[Apr 14th, 2021]]
