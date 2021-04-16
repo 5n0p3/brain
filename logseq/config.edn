@@ -78,4 +78,5 @@
  :macros {}
  :ui/show-brackets? false
  :feature/enable-encryption? false
- :preferred-format :markdown}
+ :preferred-format :markdown
+ :preferred-workflow :todo}
