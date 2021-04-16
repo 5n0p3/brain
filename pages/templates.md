@@ -38,8 +38,6 @@ Date Started:
 ##### TODO Morning focus hour
 ###### TODO Read 30 minutes #goal-learning #habit
 
-##### TODO Review Readwise.io
-
 ##### TODO 10 minutes meditation #goal-health #habit
 
 ##### TODO Workout or run #goal-health #habit
