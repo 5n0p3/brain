@@ -56,8 +56,7 @@ Date Started:
 
 ##### What made me sad?
 
-##### Where there any signs of my day going to shit that I could recognize?
-
+##### Were there any signs of my day going to shit that I could recognize?
 ##### What prevented me from reaching my goals today?
 
 ##### What am I looking forward to?
