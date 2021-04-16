@@ -7,7 +7,6 @@ title: one to one meetings
 ### Found a solution write in the side bar
 #### This adds more text but isn't yet updated to the linked ref
 #### It is there already, needs to be refreshed
-## {{query: {and: [[Meetings with K]]}}}
 ## {{query (and [[Meetings with K]] )}}
 ## [[K]] [[one to one meetings]]
 
