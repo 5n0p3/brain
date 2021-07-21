@@ -79,4 +79,5 @@
  :ui/show-brackets? false
  :feature/enable-encryption? false
  :preferred-format :markdown
- :preferred-workflow :todo}
+ :preferred-workflow :todo
+ :markdown/version 2}
