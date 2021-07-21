@@ -2,4 +2,4 @@
 title: Quick Capture
 ---
 
-## 
+-

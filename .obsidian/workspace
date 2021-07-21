@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "a267142c03d720c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d33676f87b28804",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journals/2021_05_04.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8829515e1dfb8b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e2f0bdaeca0575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab40281ccd971eab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d6e39edb0c27b86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "kiran",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d358371a34902aae",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa7c0a277c192049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48d91b262cb12ac7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journals/2021_05_04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d33676f87b28804",
+  "lastOpenFiles": [
+    "journals/2021_05_04.md",
+    "journals/2021_04_09.md"
+  ]
+}

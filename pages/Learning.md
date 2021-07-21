@@ -2,4 +2,4 @@
 title: Learning
 ---
 
-## [[goal-learning]]
+- [[goal-learning]]

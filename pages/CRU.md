@@ -2,4 +2,4 @@
 title: CRU
 ---
 
-## Stands for Customer Replacement Unit
+- Stands for Customer Replacement Unit

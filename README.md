@@ -1,1 +1,1 @@
-# logseq
+- logseq
